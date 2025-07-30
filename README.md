@@ -1,0 +1,1 @@
+Fiz um site interativo com o objetivo de mostrar o CEP, bairro, estado e DDD do usuário por meio de integrações API. Desenvolvido em HTML, CSS e JavaScript, com o intuito de ampliar meus conhecimentos e habilidades na área de programação.
